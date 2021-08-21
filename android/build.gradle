@@ -33,7 +33,5 @@ allprojects {
         }
         google()
         maven { url 'https://www.jitpack.io' }
-        
-        implementation 'com.github.azizimusa:Wifi-Bluetooth-Mesh-Network:1.0'
     }
 }
